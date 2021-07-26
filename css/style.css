@@ -23,3 +23,78 @@ nav ul li a:hover {
   color: coral !important;
   transition: 0.6s;
 }
+
+.price {
+  color: coral !important;
+}
+
+.buy-now-button {
+  background-color: coral !important;
+  box-shadow: 5px 10px 30px coral !important;
+  border: none !important;
+  border-radius: 3px;
+  color: #fff;
+  transition: 0.6s ease;
+  margin-top: 10px !important;
+}
+
+.buy-now-button:hover {
+  color: #fff !important;
+  background-color: #000 !important;
+  box-shadow: 5px 10px 30px coral !important;
+  transition: 0.6s ease;
+  letter-spacing: 4px;
+}
+
+.m {
+  margin-top: 150px;
+}
+
+.rounded {
+  border-radius: 5px !important;
+}
+
+#categories {
+  margin: 80px 0px 80px;
+}
+
+.card {
+  border-radius: 10px !important;
+  transition: 0.6s;
+  overflow: hidden;
+}
+
+.card:hover {
+  transition: 0.6s;
+  transform: translateY(-20px);
+  box-shadow: 0px 5px 30px coral !important;
+}
+
+.card img {
+  transition: 0.6s;
+}
+
+.card img:hover {
+  transform: scale(1.25);
+  transition: 0.6s;
+}
+
+.section-padding {
+  padding: 80px 0px 80px !important;
+}
+
+input {
+  display: block;
+}
+
+.orange-bg {
+  background-color: #fceae8 !important;
+}
+
+.sm {
+  margin-bottom: 150px;
+}
+
+.navbar-toggler:focus {
+  box-shadow: none !important;
+}
